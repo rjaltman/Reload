@@ -31,6 +31,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.woahThere = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.passcodeText = new System.Windows.Forms.TextBox();
+            this.submit = new System.Windows.Forms.Button();
+            this.notifierText = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -70,12 +73,53 @@
             this.label2.Text = "Enter the admin password to\r\nlet you in";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // passcodeText
+            // 
+            this.passcodeText.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.passcodeText.Location = new System.Drawing.Point(64, 179);
+            this.passcodeText.Name = "passcodeText";
+            this.passcodeText.Size = new System.Drawing.Size(497, 22);
+            this.passcodeText.TabIndex = 4;
+            this.passcodeText.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.passcodeText.UseSystemPasswordChar = true;
+            // 
+            // submit
+            // 
+            this.submit.BackColor = System.Drawing.Color.Maroon;
+            this.submit.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.submit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.submit.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.submit.ForeColor = System.Drawing.Color.White;
+            this.submit.Location = new System.Drawing.Point(275, 207);
+            this.submit.Name = "submit";
+            this.submit.Size = new System.Drawing.Size(75, 23);
+            this.submit.TabIndex = 5;
+            this.submit.Text = "Submit";
+            this.submit.UseVisualStyleBackColor = false;
+            this.submit.Click += new System.EventHandler(this.submit_Click);
+            // 
+            // notifierText
+            // 
+            this.notifierText.AutoSize = true;
+            this.notifierText.Font = new System.Drawing.Font("Segoe UI Semilight", 8.75F);
+            this.notifierText.ForeColor = System.Drawing.Color.IndianRed;
+            this.notifierText.Location = new System.Drawing.Point(207, 270);
+            this.notifierText.Name = "notifierText";
+            this.notifierText.Size = new System.Drawing.Size(210, 15);
+            this.notifierText.TabIndex = 6;
+            this.notifierText.Text = "Sorry, but that didn\'t work...try it again.";
+            this.notifierText.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.notifierText.Visible = false;
+            // 
             // WhoAreYouWhoWhoWhoWho
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(624, 294);
+            this.Controls.Add(this.notifierText);
+            this.Controls.Add(this.submit);
+            this.Controls.Add(this.passcodeText);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.woahThere);
             this.Controls.Add(this.label1);
@@ -92,5 +136,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label woahThere;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox passcodeText;
+        private System.Windows.Forms.Button submit;
+        private System.Windows.Forms.Label notifierText;
     }
 }

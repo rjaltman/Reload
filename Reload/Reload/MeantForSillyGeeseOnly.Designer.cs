@@ -235,8 +235,8 @@
             this.label4.Size = new System.Drawing.Size(313, 61);
             this.label4.TabIndex = 20;
             this.label4.Text = "When this is enabled, Windows Explorer will be closed and normal navigation for a" +
-    " user will be denied. The only way to re-enable Explorer is to run Task Manager," +
-    " Command Prompt, or Run to reenable it.";
+    " user will be denied. The only way to re-enable Explorer is to run Task Manager " +
+    "and ultimately reenable it.";
             // 
             // label11
             // 

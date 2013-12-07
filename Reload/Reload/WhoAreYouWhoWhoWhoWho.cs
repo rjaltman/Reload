@@ -21,5 +21,21 @@ namespace Reload
         {
             this.Close();
         }
+
+        private void submit_Click(object sender, EventArgs e)
+        {
+            if (passcodeText.Text == Properties.Settings.Default.uhOhItsThatDogeAgain)
+            {
+                MeantForSillyGeeseOnly wut = new MeantForSillyGeeseOnly();
+                wut.Show();
+                wut.BringToFront();
+                this.Close();
+            }
+            else
+            {
+                notifierText.Visible = true;
+                passcodeText.Text = "";
+            }
+        }
     }
 }

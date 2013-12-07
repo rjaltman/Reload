@@ -17,7 +17,16 @@ namespace Reload
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            Application.Run(new Form1());
+            if (Properties.Settings.Default.uhOhItsThatDogeAgain == "")
+            {
+                Application.Run(new FirstRun());
+            }
+            else
+            {
+                Application.Run(new Form1());
+            }
+            
+
         }
     }
 }

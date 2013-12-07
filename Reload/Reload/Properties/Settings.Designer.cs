@@ -70,5 +70,17 @@ namespace Reload.Properties {
                 this["solo"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string uhOhItsThatDogeAgain {
+            get {
+                return ((string)(this["uhOhItsThatDogeAgain"]));
+            }
+            set {
+                this["uhOhItsThatDogeAgain"] = value;
+            }
+        }
     }
 }

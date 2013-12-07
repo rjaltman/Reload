@@ -9,3 +9,16 @@ D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.exe
 D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.pdb
 D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.MeantForSillyGeeseOnly.resources
 D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.WhoAreYouWhoWhoWhoWho.resources
+D:\GitHub\Reload\Reload\Reload\bin\Debug\Reload.exe.config
+D:\GitHub\Reload\Reload\Reload\obj\Debug\Reload.exe
+D:\GitHub\Reload\Reload\Reload\obj\Debug\Reload.pdb
+D:\GitHub\Reload\Reload\Reload\bin\Debug\Reload.exe
+D:\GitHub\Reload\Reload\Reload\bin\Debug\Reload.pdb
+D:\GitHub\Reload\Reload\Reload\obj\Debug\Reload.csprojResolveAssemblyReference.cache
+D:\GitHub\Reload\Reload\Reload\obj\Debug\Reload.FirstRun.resources
+D:\GitHub\Reload\Reload\Reload\obj\Debug\Reload.Form1.resources
+D:\GitHub\Reload\Reload\Reload\obj\Debug\Reload.MeantForSillyGeeseOnly.resources
+D:\GitHub\Reload\Reload\Reload\obj\Debug\Reload.Properties.Resources.resources
+D:\GitHub\Reload\Reload\Reload\obj\Debug\Reload.WhoAreYouWhoWhoWhoWho.resources
+D:\GitHub\Reload\Reload\Reload\obj\Debug\Reload.csproj.GenerateResource.Cache
+D:\GitHub\Reload\Reload\Reload\obj\Debug\Reload.RestartAlert.resources
