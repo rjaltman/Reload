@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Reload.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="whatToRun" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://pentelec.tk</Value>
+    </Setting>
+    <Setting Name="nowColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Teal</Value>
+    </Setting>
+    <Setting Name="taskName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">the pentelec website</Value>
+    </Setting>
+    <Setting Name="solo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
