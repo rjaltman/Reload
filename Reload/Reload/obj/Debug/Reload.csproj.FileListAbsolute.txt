@@ -1,0 +1,11 @@
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\bin\Debug\Reload.exe.config
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\bin\Debug\Reload.exe
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\bin\Debug\Reload.pdb
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.csprojResolveAssemblyReference.cache
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.Form1.resources
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.Properties.Resources.resources
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.csproj.GenerateResource.Cache
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.exe
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.pdb
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.MeantForSillyGeeseOnly.resources
+D:\Pentelec\Reload\VCS\Version2\Reload\Reload\obj\Debug\Reload.WhoAreYouWhoWhoWhoWho.resources
